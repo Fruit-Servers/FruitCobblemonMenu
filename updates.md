@@ -6,8 +6,7 @@
 %!!fredoka_medium%%#493066%
 ### WELCOME TO COBBLEMON!
 %#%
-<img width="1899" height="1003" alt="fruit_cobblemon_spawn" src="https://github.com/user-attachments/assets/1dd34c2a-3123-40cd-85e5-415a0578a2b5" />
-%#413B37%
+![](https://raw.githubusercontent.com/Fruit-Servers/FruitCobblemonMenu/refs/heads/main/images/fruit_cobblemon_spawn.png)
 # Welcome to Cobblemon Beta!
 
 Welcome to **Fruit Servers Cobblemon!**
@@ -25,7 +24,7 @@ Most importantly, we hope you have fun, explore the world, catch some Pokémon a
 A huge thank you to everyone who helped us test Cobblemon before launch. Your feedback, bug reports and time spent playing have helped us get the server ready for everyone.
 
 **We couldn't have done it without you!**
-<img width="1672" height="940" alt="cobblemonbetatesters" src="https://github.com/user-attachments/assets/251a7df1-4a37-44e5-b2ff-404040921143" />
+![](https://raw.githubusercontent.com/Fruit-Servers/FruitCobblemonMenu/refs/heads/main/images/cobblemonbetatesters.png)
 
 Welcome to Cobblemon. We hope you enjoy the adventure!
 
