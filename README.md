@@ -27,7 +27,7 @@ A huge thank you to everyone who helped us test Cobblemon before launch. Your fe
 **We couldn't have done it without you!**
 <img width="1672" height="940" alt="cobblemonbetatesters" src="https://github.com/user-attachments/assets/251a7df1-4a37-44e5-b2ff-404040921143" />
 
-Welcome to Cobblemon. We hope you enjoy the adventure! 🌱
+Welcome to Cobblemon. We hope you enjoy the adventure!
 
 %#%
 %!!%
