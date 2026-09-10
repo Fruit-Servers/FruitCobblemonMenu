@@ -3,7 +3,6 @@
 ### COBBLEMON BETA 1.0
 %#%%!!%
 %!!fredoka_medium%%#493066%
-WELCOME TO COBBLEMON!
 %#%
 ![](https://raw.githubusercontent.com/Fruit-Servers/FruitCobblemonMenu/refs/heads/main/images/fruit_cobblemon_spawn.png)
 %#413B37%
