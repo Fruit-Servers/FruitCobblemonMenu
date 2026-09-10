@@ -7,7 +7,7 @@ WELCOME TO COBBLEMON!
 %#%
 ![](https://raw.githubusercontent.com/Fruit-Servers/FruitCobblemonMenu/refs/heads/main/images/fruit_cobblemon_spawn.png)
 %#413B37%
-## Welcome to Fruit Servers Cobblemon!
+## Welcome to Fruit Servers!
 
 After months of planning and weeks of development, we're excited to finally open the doors and let you experience what we've been working on.
 
