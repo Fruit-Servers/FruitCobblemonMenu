@@ -2,7 +2,6 @@
 %#3D245E%
 ### COBBLEMON BETA 1.0
 %#%%!!%
-
 %!!fredoka_medium%%#493066%
 WELCOME TO COBBLEMON!
 %#%
