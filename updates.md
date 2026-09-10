@@ -7,6 +7,8 @@
 ### WELCOME TO COBBLEMON!
 %#%
 ![](https://raw.githubusercontent.com/Fruit-Servers/FruitCobblemonMenu/refs/heads/main/images/fruit_cobblemon_spawn.png)
+
+%#413B37%
 # Welcome to Cobblemon Beta!
 
 Welcome to **Fruit Servers Cobblemon!**
