@@ -1,3 +1,4 @@
+
 %!!fredoka_semibold%
 %#3D245E%
 ## COBBLEMON BETA 1.0
@@ -5,7 +6,7 @@
 %!!fredoka_medium%%#493066%
 ### WELCOME TO COBBLEMON!
 %#%
-![](https://raw.githubusercontent.com/LifeOfBlu/FruitCobblemonUpdates/main/images/Welcome.png)
+<img width="1899" height="1003" alt="fruit_cobblemon_spawn" src="https://github.com/user-attachments/assets/1dd34c2a-3123-40cd-85e5-415a0578a2b5" />
 %#413B37%
 # Welcome to Cobblemon Beta!
 
