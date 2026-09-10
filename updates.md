@@ -1,6 +1,6 @@
 %!!fredoka_semibold%
 %#3D245E%
-COBBLEMON BETA 1.0
+### COBBLEMON BETA 1.0
 %#%%!!%
 
 %!!fredoka_medium%%#493066%
@@ -8,8 +8,7 @@ WELCOME TO COBBLEMON!
 %#%
 ![](https://raw.githubusercontent.com/Fruit-Servers/FruitCobblemonMenu/refs/heads/main/images/fruit_cobblemon_spawn.png)
 %#413B37%
-#Welcome to Cobblemon Beta!
-##Welcome to Fruit Servers Cobblemon!
+## Welcome to Fruit Servers Cobblemon!
 
 After months of planning and weeks of development, we're excited to finally open the doors and let you experience what we've been working on.
 
