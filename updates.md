@@ -1,12 +1,39 @@
 %!!fredoka_semibold%
 %#3D245E%
-### COBBLEMON BETA 1.0
+### COBBLEMON BETA
 %#%%!!%
 %!!fredoka_medium%%#493066%
 %#%
-![](https://raw.githubusercontent.com/Fruit-Servers/FruitCobblemonMenu/refs/heads/main/images/fruit_cobblemon_spawn.png)
+
 %#413B37%
+## Updated to Cobblemon 1.8.1! 
+**26/09/2026**
+- Updated to [Cobblemon 1.8.1](https://wiki.cobblemon.com/index.php/1.8.1)
+- Fixed broken models for some Pokemon
+- Added REI recipes for Cobblemon cooking pot and brewing stand items
+- **Added 6★ raid dens!** These dens contain exclusively juiced up (mega, tera, dynamax, z-move) Pokemon. This is now a source for battle gimmick items. Bring stronger Pokemon to these ones!
+
+**25/09/2026**
+- Re-Implemented /perks
+
+**20/09/2026**
+- All trainer-owned Pokemon within a close radius of a legendary raid boss will be withdrawn back to the player's party before the catch window opens
+- Tournament fights now auto-start, players don't need to click [Accept] in a fast moving chat
+- Spectate a tournament match in `/tournament bracket` when there's one active
+- Fixed a pesky bug where shiny Pokemon were spawning and immediately being despawned by population control (anti-lag). Special Pokemon are now forced to spawn, and stay spawned.
+- Fixed a bug causing special forms to not trigger (KO/catch) chain bonuses
+
+**20/09/2026**
+- All trainer-owned Pokemon within a close radius of a legendary raid boss will be withdrawn back to the player's party before the catch window opens
+- Tournament fights now auto-start, players don't need to click [Accept] in a fast moving chat
+- Spectate a tournament match in `/tournament bracket` when there's one active
+- Fixed a pesky bug where shiny Pokemon were spawning and immediately being despawned by population control (anti-lag). Special Pokemon are now forced to spawn, and stay spawned.
+- Fixed a bug causing special forms to not trigger (KO/catch) chain bonuses
+
+![](https://raw.githubusercontent.com/Fruit-Servers/FruitCobblemonMenu/refs/heads/main/images/fruit_cobblemon_spawn.png)
+
 ## Welcome to Fruit Servers!
+**11/09/2026**
 
 After months of planning and weeks of development, we're excited to finally open the doors and let you experience what we've been working on.
 
