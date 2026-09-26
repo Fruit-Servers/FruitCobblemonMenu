@@ -4,7 +4,6 @@
 %#%%!!%
 %!!fredoka_medium%%#493066%
 %#%
-
 %#413B37%
 ## Updated to Cobblemon 1.8.1! 
 **26/09/2026**
