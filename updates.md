@@ -6,6 +6,11 @@
 %#%
 %#413B37%
 ## Updated to Cobblemon 1.8.1! 
+
+**27/09/2026**
+- Added egg moves! Put a Pokemon holding a Mirror Herb in a pasture with a Pokemon that knows one of its egg moves, and after 10-30 minutes it learns that move (it needs a free move slot).
+- Added a **/sit** command, and headsitting (right click your friend with an empty hand)
+
 **26/09/2026**
 - Updated to [Cobblemon 1.8.1](https://wiki.cobblemon.com/index.php/1.8.1)
 - Fixed broken models for some Pokemon
